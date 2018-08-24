@@ -1,4 +1,4 @@
-# janwee
+# PythonScalaStudyNotes
 大数据作业
 练习1：
 1.定义一个天气温度列表，写出里面每一天的温度
